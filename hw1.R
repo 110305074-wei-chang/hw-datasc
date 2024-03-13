@@ -11,6 +11,6 @@ summary <- function(input, output) {
   
 
 }
-summary("example/input1.csv","output1.csv")
+
 # You could unmark the following cmd for local testing. Please mark it as a comment when uploading to GradeScope.
 # summary("./example/input1.csv", "./example/output1_test.csv")
